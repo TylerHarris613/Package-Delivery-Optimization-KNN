@@ -8,7 +8,6 @@ This Python-based application is designed to assist the Western Governors Univer
 - Creation and management of delivery trucks.
 - Loading and delivering of packages in the shortest distance via KNN algorithm
 - User interface that provides package status at a specified time.
-## Main Files in the Repository
 
 ## Code Structure
 ### Main Files
