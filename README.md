@@ -1,6 +1,6 @@
 # Package Delivery Optimization Application
 ## Overview
-This Python-based application is designed to assist the Western Governors University Parcel Service (WGUPS) in determining the most efficient delivery routes for their trucks. The program utilizes the Nearest Neighbor algorithm and a custom hashing mechanism to achieve its goal.
+This Python-based application is designed to determine the most efficient delivery routes for trucks bearing packages. The program utilizes the Nearest Neighbor algorithm and a custom hashing mechanism to achieve its goal.
 ## Key Features
 - Loading and parsing of package data from CSV files.
 - Conversion of delivery address strings to integer address IDs.
